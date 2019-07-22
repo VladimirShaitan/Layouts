@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600|Open+Sans:400,600&subset=cyrillic');
+@import url("core.css");
+@import url('blocks/header.css');
+@import url('blocks/content.css');
